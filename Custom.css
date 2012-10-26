@@ -32,7 +32,10 @@ body .source-code,
 /*TOOLBAR*/
 #toolbar {
 background-image: none !important;
-background-color: rgb(80, 80, 80) !important;
+background-color: #102335 !important;
+}
+#toolbar .toolbar-label {
+    color: #D05931 !important;
 }
 .status-bar {
 background-image: -webkit-linear-gradient(rgb(180, 180, 180), rgb(247, 242, 242)) !important;
