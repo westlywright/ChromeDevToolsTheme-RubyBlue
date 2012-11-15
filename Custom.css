@@ -41,6 +41,10 @@ background-color: #102335 !important;
 background-image: -webkit-linear-gradient(rgb(180, 180, 180), rgb(247, 242, 242)) !important;
 }
 
+.first-styles-section .selector-matches {
+    color: #D05931 !important;    
+}
+
 /* CONSOLE */
 #console-messages .console-user-command {
     border-bottom:0px none !important;
