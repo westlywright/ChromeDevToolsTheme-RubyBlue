@@ -119,6 +119,11 @@ opacity: 0.6 !important;
 #console-messages .console-warning-level .console-message-text .section .header .title {
     color:#cc2 !important;
 }
+#console-messages .console-log-level .console-message-text .console-message-url,
+#console-messages .console-warning-level .console-message-text .console-message-url,
+#console-messages .console-error-level .console-message-text .console-message-url {
+    color:#72DA0A !important;
+}
 #console-messages .outline-disclosure li div {
     color:#aaa !important;
 }
