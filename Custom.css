@@ -28,6 +28,9 @@ body .source-code,
     content:url(chrome-devtools://devtools/Images/treeDownTriangleWhite.png) !important;
 }
 
+table {
+    font-size: 11px;
+}
 
 /*TOOLBAR*/
 #toolbar {
@@ -87,6 +90,14 @@ opacity: 0.6 !important;
     color:#aaa !important;
 }
 
+.section .properties li {
+    opacity: 1 !important;
+}
+
+.section .properties .name {
+    color: #cf7136 !important;
+}
+
 /* specifics */
 #console-messages .console-formatted-number {
     color: #F0F !important;
@@ -137,7 +148,9 @@ opacity: 0.6 !important;
 color:#ccc!important;
 }
 */
-
+.resource-view {
+    background:#112435 !important;
+}
 
 
 
